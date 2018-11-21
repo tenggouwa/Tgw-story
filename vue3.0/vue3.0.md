@@ -22,6 +22,18 @@
 `vue create myvue3` (myvue3是你想要的工程的名字)
 ![avatar](http://5268.link/Img/gitVue3/5.png)
 + 选择你需要的VueCli可以提供给你的内容（箭头键上下移动，回车选择）
-![avatar](http://5268.link/Img/gitVue3/6.png)
 ![avatar](http://5268.link/Img/gitVue3/7.png)
++ 全部选择完毕你的一把梭项目就建好啦！
 ![avatar](http://5268.link/Img/gitVue3/8.png)
+
+
+
+ ### 第三步，把冰箱门关上  ====>  启动项目，并进行打包测试
++ 紧跟上一步的步伐，在终端中输入提示的内容
+![avatar](http://5268.link/Img/gitVue3/9.png)
+打开`http://localhost:8081/#/`你会看到你想要的内容啦。
++ 终端中`yarn run build`，就可以打包你的项目。
+
+
+### 总结
++ 开始你的表演吧
