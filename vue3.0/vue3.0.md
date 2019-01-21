@@ -21,7 +21,7 @@
 + 在终端中输入命令行
 `vue create myvue3` (myvue3是你想要的工程的名字)
 ![avatar](http://5268.link/Img/gitVue3/5.png)
-+ 选择你需要的VueCli可以提供给你的内容（箭头键上下移动，回车选择）
++ 选择你需要的VueCli可以提供给你的内容（箭头键上下移动，回车选择）
 ![avatar](http://5268.link/Img/gitVue3/7.png)
 + 全部选择完毕你的一把梭项目就建好啦！
 ![avatar](http://5268.link/Img/gitVue3/8.png)
