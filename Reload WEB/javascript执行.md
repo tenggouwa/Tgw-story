@@ -21,4 +21,8 @@
 + async/await
   + async一定返回Promise
 ****
-重学前端17， 闭包和执行上下文
+重学前端17， 闭包，作用域链，执行上下文，this
+====
+
++ 概览
+![avatar](https://github.com/tenggouwa/ImgWork/blob/master/ReloadWeb/seventeen-1.png)
