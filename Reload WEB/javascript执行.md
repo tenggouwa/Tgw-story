@@ -73,12 +73,25 @@
     }
   ```
 + this关键字
-  + 普通函数的this,由调用它所使用的引用决定
   + **调用函数时使用的引用，决定了函数执行时刻的 this 值。**
+  + **改为箭头函数后，不论用什么引用来调用它，都不影响它的 this 值。**
+  + call  ```foo.call({}, 1, 2 ,3)```
+  + apply ```f00.apply({}, [1, 2, 3])```
+  + bind 可以生成一个绑定过的函数
+  ```
+    function foo(a, b, c){
+        console.log(this);
+        console.log(a, b, c);
+    }
+    foo.bind({}, 1, 2, 3)();
+  ```
+****
+重学前端19 语句
+===
 
-
-
-
++ 语句分类
+![avatar](https://github.com/tenggouwa/ImgWork/blob/master/ReloadWeb/nineteen-1.jpg)
++ 
 
 
 
