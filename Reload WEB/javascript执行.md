@@ -26,3 +26,83 @@
 
 + 概览
 ![avatar](https://github.com/tenggouwa/ImgWork/blob/master/ReloadWeb/seventeen-1.png)
+
+****
+重学前端18，有多少种函数?
+====
+
++ 函数
+  + 普通函数 function定义的
+  ```
+    function foo(){
+      // code
+    }
+  ```
+  + 箭头函数 => 运算符定义的
+  ```
+    function foo = () => {
+      // code
+    }
+  ```
+  + 方法: class中定义的
+  ```
+    class C {
+      foo(){
+        // code
+      }
+    }
+  ```
+  + 生成器函数 用function *定义的
+  ```
+    function * foo() {
+      // code
+    }
+  ```
+  + 类 用class定义的类 
+  ```
+    class Foo {
+      constructor() {
+        // code
+      }
+    }
+  ```
+  + 异步函数
+  ```
+    async function foo() {
+      //code
+    }
+  ```
++ this关键字
+  + 普通函数的this,由调用它所使用的引用决定
+  + **调用函数时使用的引用，决定了函数执行时刻的 this 值。**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
